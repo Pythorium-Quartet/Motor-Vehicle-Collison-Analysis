@@ -18,3 +18,14 @@ Research Questions
 - 5. What are the trends of collisions over the years?
 - 6. What are the contributing factors for majority of the collisions?
 - 8. Numberof Motorists/pedestrians/cyclists/persons involved in the collisions.
+ 
+Please see the python script, "MotorVechicleCollisions_NYC.ipynb" in the same folder, written to generate the above insights.
+
+Main segments of the python script:
+1. Import the packages/libraries
+2. Load the data into Data Frame
+3. Data cleansing and preparation
+4. Data Exploration
+
+Please see the presentation document, "New York City Traffic Analysis.pptx" in the same folder, with the topics of the project highlighted.
+
